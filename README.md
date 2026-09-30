@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![nabil miftah](img/github-header-banner.png)
+![miftah ajaa](img/github-header-banner.png)
 
 <!--
 **nabilmiftah/nabilmiftah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
